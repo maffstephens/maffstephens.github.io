@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Matt Stephens
 
-You can use the [editor on GitHub](https://github.com/maffstephens/maffstephens.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hey,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm just using this page as a jumping-off point for my various activities on the web...
 
-### Markdown
+... namely:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Domain Oriented Testing (DOT)
 
-```markdown
-Syntax highlighted code block
+I've been working on a [development process that incorporates unit testing](https://www.domainorientedtesting.com/), component testing, BDD-style acceptance testing, and Domain Driven Design (DDD)... in one distilled, highly optimised package that's perfect for diligent software developers. DOT has a real emphasis on rooting out the "unhappy paths" or error conditions that lurk in all business workflows and systems.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## My Software Reality blog on Medium
 
-1. Numbered
-2. List
+I post new articles here regularly... mainly about [DOT, programming and testing](https://medium.com/@SoftwareReality/)... with a few other subjects for good measure, like this article about [Android-based e-ink alternatives to Kindle](https://onezero.medium.com/amazon-is-facing-a-quiet-reading-revolution-297b44440616).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## DOT LinkedIn group
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Regular discussions about [developer-driven testing](https://www.linkedin.com/groups/13804489/), acceptance testing, driving tests from domain models, event storming etc. If you have questions or suggestions about DOT, this is the best place to go.
 
-### Jekyll Themes
+If you'd like to get in contact, the best way is via [my LinkedIn profile](https://www.linkedin.com/in/maffstephens/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maffstephens/maffstephens.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Follow me on Twitter!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My [Twitter profile](https://twitter.com/maffstephens)...
+
+
+## My author page on Amazon
+
+Just listing it here because... well.. why not...
+[US page](https://www.amazon.com/Matt-Stephens/e/B0034P9NBK)   [UK page](https://www.amazon.co.uk/Matt-Stephens/e/B0034P9NBK)
+
+
+## Articles on The Register
+
+I haven't written anything new there for a good while, but [the articles](https://search.theregister.co.uk/?q=&advanced=1&author=Matt+Stephens) are still there.
